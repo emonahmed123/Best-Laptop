@@ -1,0 +1,47 @@
+[
+{
+  "id":1,
+   "name":"shomon",
+ "discription":"This is good macbook is the world",
+   "Rating" : "4.8/5"
+
+
+},
+{
+  "id":2,
+   "name":"emon",
+ "discription":" amazing laptop",
+   "Rating" : "4.8/5"
+
+
+},
+{
+  "id":3,
+   "name":"alif",
+ "discription":"cool",
+   "Rating" : "4.8/5"
+
+
+},
+{
+  "id":4,
+   "name":"hassan",
+ "discription":"great",
+   "Rating" : "4.7"
+
+
+},
+{
+  "id":5,
+   "name":"sonya",
+ "discription":"aswsome",
+   "Rating" : "4.8"
+
+
+}
+
+
+
+
+
+]

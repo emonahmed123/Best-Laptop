@@ -4,7 +4,7 @@ const Reviews = () => {
     return (
         <div>
             <h1>
-                Review this
+              All    Costomer  Review 
             </h1>
         </div>
     );

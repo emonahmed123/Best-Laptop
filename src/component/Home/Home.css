@@ -34,3 +34,28 @@ font-weight: 500;
     border-radius: 10px;
     box-shadow: 2px 3px 3px  rgb(216, 255, 242);
 }
+.cart-container{
+    margin-top: 60px;
+    font-size: 20px;
+    margin-left: 500px;
+}
+.cart-container h1{
+    margin-right: 350px;
+}
+.cart-container p{
+    box-shadow: 1px 1px 8px;
+   width: 400px;
+   padding-bottom: 5px;
+   
+   
+}
+.cart-container a{
+  margin: 5px;
+    text-decoration: none;
+    width: 70px;
+    height: 90px;
+    padding: 10px;
+    background-color: rgb(147, 147, 253);
+    color: aliceblue;
+    border-radius: 5px;
+}
