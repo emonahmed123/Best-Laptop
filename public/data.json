@@ -3,7 +3,7 @@
   "id":1,
    "name":"shomon",
  "discription":"This is good macbook is the world",
-   "Rating" : "4.8/5"
+   "Rating" : "4.9/5"
 
 
 },
@@ -19,7 +19,7 @@
   "id":3,
    "name":"alif",
  "discription":"cool",
-   "Rating" : "4.8/5"
+   "Rating" : "4.7/5"
 
 
 },
@@ -27,7 +27,7 @@
   "id":4,
    "name":"hassan",
  "discription":"great",
-   "Rating" : "4.7"
+   "Rating" : "4.3/5"
 
 
 },
@@ -35,7 +35,7 @@
   "id":5,
    "name":"sonya",
  "discription":"aswsome",
-   "Rating" : "4.8"
+   "Rating" : "4.1/5"
 
 
 }
