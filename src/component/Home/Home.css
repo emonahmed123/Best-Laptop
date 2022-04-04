@@ -1,0 +1,36 @@
+.home-container{
+    display: flex;
+     justify-content: center;
+     margin-top: 50px;  
+}
+
+ .frist{
+     font-size: 35px;
+     color: rgb(149, 149, 246);
+ }
+ .second{
+     font-size: 35px;
+     color: black;
+ }
+.laptop-deatil p{
+font-weight: 500;
+}
+.button{
+       width: 100px;
+       height: 40px;
+       color: rgb(55, 55, 254);
+       border: none;
+       margin-right: 250px;
+       margin-top: 40px;
+       border-radius: 4px;
+       background-color: rgb(165, 165, 243);
+
+}
+
+.laptop-img img{
+    height: 400px;
+    width: 400px;
+    margin-left: 30px;
+    border-radius: 10px;
+    box-shadow: 2px 3px 3px  rgb(216, 255, 242);
+}

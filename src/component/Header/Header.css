@@ -1,0 +1,16 @@
+ nav{
+     margin-top: 15px;
+ }
+nav a{
+    
+    text-decoration: none;
+    margin-left: 40px;
+    color: #000;
+    border-bottom: 2px solid seashell;
+    font-weight: 600;
+}
+
+nav   a:hover{
+    color: orange;
+    border-color: orange;
+}
