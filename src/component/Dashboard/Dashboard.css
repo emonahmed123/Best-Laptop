@@ -1,0 +1,14 @@
+.chart-container{
+    display: flex;
+}
+
+.htwo{
+    color: rgba(109, 109, 251, 0.597);
+}
+.bar-chart{
+    margin-left: 90px;
+    margin-top: 20px;
+} 
+.line-chart{
+    margin-left: 30px;
+}

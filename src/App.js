@@ -19,7 +19,7 @@ function App() {
           <Route path='/dashboard' element={<Dashboard/>}></Route>
           <Route path='/blog' element={<Blogs/>}></Route>
          <Route path='/about' element={<About></About>}></Route>
-          {/* <Route path='*' element={<NotFound/>}></Route> */}
+           <Route path='*' element={<NotFound/>}></Route> 
        </Routes>
  
 
