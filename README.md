@@ -4,3 +4,5 @@
  *  ২: দুটি  chart বানিয়েছি।
  * ৩: Customhook  তৈরি   করেছি ।
  * ৪:  Customer Review   দেখিয়েছি ।
+
+ [live site](https://bestlaptop.netlify.app)
